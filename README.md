@@ -56,7 +56,7 @@ allure --version
 
 # Настройка окружения
 Файл .env в корне проекта
-X-API-KEY = WD3F3K7-VAYMA5F-J90768M-1A18XVN
+X-API-KEY = записать свой ключ
 (API-ключ получен на api.poiskkino.dev)
 
 # Запуск тестов
